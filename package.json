@@ -1,6 +1,7 @@
 {
   "name": "test-app",
   "version": "0.0.0",
+  "author":"Ignacio Norambuena <ignacionorambuenag@gmail.com>",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
